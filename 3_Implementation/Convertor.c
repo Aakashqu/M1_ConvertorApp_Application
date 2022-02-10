@@ -97,7 +97,7 @@ int main()
         printf("Please enter the correct choice \n");
 
     }
-    else if(Category == 13){
+    else if(Category == 12){
         printf("Welcome to Length convertor \n");
         printf("List \n") ;
         printf("Enter 1 for Meter to Centimeter \n");
@@ -118,10 +118,10 @@ int main()
             printf("Kilometer: %.2f",MtoKm);
         }
         else
-        printf("Please enter the correct value. \n");
+        printf("Please enter the correct value\n");
     }
 
-    if(Category == 14){
+    if(Category == 13){
         printf("Welcome to Mass convertor \n");
         printf("List \n");
         printf("enter 1 for ounces to pounds \n");
