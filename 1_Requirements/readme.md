@@ -47,7 +47,7 @@ IT cannot convert other type of measurments.
   Whenever they need to calculate the different units.
   
   # <h4> Where
-  The application made
+  Just open the application and run
   
   # <h4> What
   Have the acess and use per choice
