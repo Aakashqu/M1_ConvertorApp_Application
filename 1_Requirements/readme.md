@@ -17,16 +17,26 @@ It will able to covert the Currency,Length,Temperature and also mass
   It will give the accurate conversion
 
 # <h3> 2.Weekness
-IT cannot convert all type measurments.
+IT cannot convert other type of measurments.
   
-# <h4>HIGH REQUIREMENTS
-It will able to covert the mass,length,currency all
+# <h3> 3.Threats
+  Can be accessable without any details
+
+  # <h3> 4.Opportunites
+  Easily useable with any accuracy problems
   
-  
-User able to choose the correct measurment
+ 
+# <h3>HIGH REQUIREMENTS
+  |S.no| Description|
+  |----|----|
+|1|It will able to covert the mass,length,currency all|
+|2|User able to choose the correct measurment|
   
  # <h3> LOW LEVEL REQUIREMENTS
-  Limited converson.
+  |S.no| Description|
+  |----|----|
+  |1|Limited type of converson.|
+  
   
   # <h2> W'4 and H'1
 
