@@ -33,13 +33,29 @@ its own choice what they want.
 
 ## Badges
 
+# <h3> Codacy 
+
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5a46c7a8b7374b2e8e668a73e582ef96)](https://www.codacy.com/gh/Aakashqu/M1_ConvertorApp_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aakashqu/M1_ConvertorApp_Application&amp;utm_campaign=Badge_Grade)
+
+# <h3> Codiga
+
+![iCode grade](https://api.codiga.io/project/31037/score/svg)
 
 
-
-
-
-
+![iCode grade](https://api.codiga.io/project/31037/status/svg)
+  
+ 
 ## Code Preview
+  
+  First You Have Choice for Conersion
+  
+  1.Temperature
+  2.Mass
+  3.Length
+  4.Currency
+  
+  If you Choose then following the instruction.
+  
 
 # <h3> For Temperature
   
@@ -72,6 +88,8 @@ its own choice what they want.
 ## Output
   
   ![OUTPUT](https://user-images.githubusercontent.com/75572777/153636898-17fb6072-3ff7-4459-826a-af5cbb04eb11.JPG)
+  
+  
 
   
 
