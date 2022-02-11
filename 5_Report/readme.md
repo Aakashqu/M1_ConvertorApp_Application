@@ -24,6 +24,15 @@ its own choice what they want.
 |----|----|
 |Certificate| Cerfication details of the courses done|
 |Requirments| Requirements and project description with analysis|
-|Ar
+|Architecture| Different types of design analysis|
+|Implementation| Code|
+|TestPlan and Output|Testplan of project|
+|Report| Details of the project|
+|Image and Output| Output of code|
+|Other| Reference|
+
+## Badges
+
+
 
 
