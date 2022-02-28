@@ -1,0 +1,14 @@
+aakashubuntu@LAPTOP-IO40PATE:/mnt/e/M1_ConvertorApp_Application/3_implementation$ gcc convertor.c -o convertor && ./convertor
+welcome to Unit Converot !!!
+Choose from list
+Temperature(10),Currency(11),Length(12),Mass(13)
+Enter you want check conversion
+10
+Entered in Temperature Conversion 
+List
+Enter 1 for FtoC
+Enetr 2 for CtoF
+1
+enter Fahrenheit degree: 
+96.7
+Celcius: 35.

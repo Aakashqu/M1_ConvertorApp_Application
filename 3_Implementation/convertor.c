@@ -3,7 +3,7 @@
 int main()
 {
     int Category;
-    int temperature; 
+    int temperature;
     int currency;
     int length;
     int mass;
@@ -28,12 +28,9 @@ int main()
     float GramtoPounds;
     float OuncetoPounds;
 
-    printf("Welcome to Unit Convertor !!!\n\n");
+    printf("welcome to Unit Converot !!!\n");
     printf("Choose from list\n");
-    printf("Press 10 for Temperature\n");
-    printf("Press 11 for Currency\n");
-    printf("Press 12 for Length\n");
-    printf("Press 13 for Mass\n");
+    printf("Temperature(10),Currency(11),Length(12),Mass(13) \n");
     printf("Enter you want check conversion \n");
     scanf("%d",&Category);
  
@@ -46,16 +43,16 @@ int main()
         printf("Enetr 2 for CtoF \n");
         scanf("%d",&temperature);
         if(temperature == 1){
-            printf("Enter Fahrenheit degree: \n");
+            printf("enter Fahrenheit degree: \n");
             scanf("%d",&Fahrenheit);
             FtoC = ((Fahrenheit-32)*(5.0/9.0));
-            printf("Celcius: %d\n", FtoC);
+            printf("Celcius: %d", FtoC);
         }
         else if(temperature == 2){
             printf("Enter Calsius defree: \n");
             scanf("%d",&Celsius);
             CtoF = ((9.0/5.0)*Celsius +32);
-            printf("fahrenheit: %d\n", CtoF);
+            printf("fahrenheit: %d", CtoF);
         }
         else
         printf("Please enter the correct choice \n");
@@ -121,7 +118,7 @@ int main()
             printf("Kilometer: %.2f",MtoKm);
         }
         else
-        printf("Please enter the correct value. \n");
+        printf("Please enter the correct value\n");
     }
 
     if(Category == 13){
@@ -147,7 +144,6 @@ int main()
         }
         else
         printf("Please enter the correct choice. \n");
-        
 
     }
     else 
