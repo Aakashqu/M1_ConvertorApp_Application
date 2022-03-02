@@ -4,6 +4,7 @@
 * Introduction
 * Files and Folder
 * Badges 
+* Describe
 * code perview
 * output
 
@@ -43,21 +44,62 @@ its own choice what they want.
 
 
 ![iCode grade](https://api.codiga.io/project/31037/status/svg)
-   
  
+ 
+### Unity
+ 
+  [![UnitTesting](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp.yml)
+
+   
+### Describe
+  
+ #### 1.Temperature
+ 
+ In temperature there are two types - Fahrenheit to Celsius and Celsius to Fahrenheit
+ 
+ the Universal formula is used on that basic the conversion is made
+
+ #### 2.Mass
+ 
+ In mass there will be a conversion of Ounce to Pounds and  Gram to Pounds
+ 
+ there are many forms in mass but the most usage are done in pounds in all over the world.
+ 
+ #### 3.Length
+ 
+ In Length there are Conversion of Meter to kilometer and Meter to Centimeter .
+ 
+ These types of Length are commanlly given in terms of reference so it is added.
+ 
+ #### 4.Currency
+ 
+ In Currency there are four types of conversion
+ 
+ 1. Indian rupees into Dollars
+ 
+  2.Indian rupees to Euro
+ 
+  3.Indian rupees to pounds
+ 
+  4.Indian rupees to australian Dollars.
+  
+ 
+ 
+  
 ## Code Preview
   
-  First You Have Choice for Conersion
-  
-  1.Temperature
-
-  2.Mass
+  First You Have Choice for Conversion
  
-  3.Length
+ 1.Temperature
  
-  4.Currency
+ 2.Mass
+ 
+ 3.Length
+ 
+ 4.Currency.
   
   If you Choose then following the instruction.
+ 
   
 
 # <h3> For Temperature
