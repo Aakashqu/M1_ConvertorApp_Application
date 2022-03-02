@@ -10,7 +10,7 @@
   
   its own choice what they want.
 
-# <h4>SWOT ANALYSIS
+# <h2>SWOT ANALYSIS
   
   # <h3> 1.Strength
 It will able to covert the Currency,Length,Temperature and also mass
@@ -26,16 +26,20 @@ IT cannot convert other type of measurments.
   Easily useable with any accuracy problems
   
  
-# <h3>HIGH REQUIREMENTS
+# <h2>HIGH REQUIREMENTS
   |S.no| Description|
   |----|----|
-|1|It will able to covert the mass,length,currency all|
-|2|User able to choose the correct measurment|
+|1|It will able to covert the mass,length all|
+|2|User able to choose the own choice measurment|
+|3|Give positive result|
+|4| 4 different of currency is stored|
   
  # <h3> LOW LEVEL REQUIREMENTS
   |S.no| Description|
   |----|----|
-  |1|Limited type of converson.|
+  |1|Limited type of conversion.|
+  |2|if currency value change|
+ 
   
   
   # <h2> W'4 and H'1
