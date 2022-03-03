@@ -28,4 +28,4 @@ Repository for creating Unit Convertor Application
  
  ### Manual workflow
  
- [![manual workflow](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp1.yml)
+ [![manual workflow](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/manual.yml/badge.svg)](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/manual.yml)
