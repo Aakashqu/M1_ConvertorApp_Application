@@ -19,3 +19,8 @@ Repository for creating Unit Convertor Application
  # <h3> Unit testing
               
  [![UnitTesting](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp.yml)
+
+ 
+ ### Cpp check
+ 
+ [![C/C++ CI](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Aakashqu/M1_ConvertorApp_Application/actions/workflows/c-cpp1.yml)
